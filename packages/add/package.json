@@ -1,0 +1,13 @@
+{
+    "name": "add",
+    "version": "1.0.0",
+    "private": true,
+    "typings": "dist",
+    "scripts": {
+      "build": "tsc -p src"
+    },
+    "devDependencies": {
+        "@types/jest": "^23.3.2",
+        "typescript": "^3.0.3"
+    }
+}

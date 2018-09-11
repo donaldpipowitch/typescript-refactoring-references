@@ -1,0 +1,12 @@
+{
+    "name": "use-add",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "add": "link:../add"
+    },
+    "devDependencies": {
+        "@types/jest": "^23.3.2",
+        "typescript": "^3.0.3"
+    }
+}
