@@ -2,6 +2,9 @@
   "compilerOptions": {
     "target": "es6",
     "moduleResolution": "node",
-    "strict": true
+    "strict": true,
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true
   }
 }

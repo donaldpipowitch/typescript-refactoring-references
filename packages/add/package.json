@@ -2,12 +2,12 @@
     "name": "add",
     "version": "1.0.0",
     "private": true,
+    "main": "dist",
     "typings": "dist",
     "scripts": {
-      "build": "tsc -p src"
+        "build": "tsc"
     },
     "devDependencies": {
-        "@types/jest": "^23.3.2",
-        "typescript": "^3.0.3"
+        "typescript": "^3.1.0-dev.20180907"
     }
 }

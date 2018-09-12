@@ -1,0 +1,6 @@
+{
+  "references": [
+    { "path": "packages/add" },
+    { "path": "packages/use-add" }
+  ]
+}
